@@ -9,7 +9,7 @@
         "year": 2003,
         "genre": "Thriller, Mystery",
         "cover": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg",
-        "price": 3
+        "price": 8
       	
     },
     {
@@ -21,7 +21,7 @@
         "year": 2008,
         "genre": "Dystopian, Science Fiction, Young Adult",
         "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Hunger_Games.jpg",
-        "price": 6
+        "price": 9
     },
     {
         "id": 2,
@@ -32,7 +32,7 @@
         "year": 2011,
         "genre": "Romance, Erotica",
         "cover": "http://upload.wikimedia.org/wikipedia/en/5/5e/50ShadesofGreyCoverArt.jpg",
-        "price": 5
+        "price": 13
     },
     {
         "id": 3,
@@ -43,7 +43,7 @@
         "year": 2015,
         "genre": "Psychological Thriller, Mystery",
         "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Girl_On_The_Train_%28US_cover_2015%29.png",
-        "price": 6
+        "price": 9
     },
     {
         "id": 4,
@@ -54,7 +54,7 @@
         "year": 2009,
         "genre": "Historical Fiction",
         "cover": "https://upload.wikimedia.org/wikipedia/en/e/ef/Thehelpbookcover.jpg",
-        "price": 4
+        "price": 15
     },
     {
         "id": 5,
@@ -65,7 +65,7 @@
         "year": 1996,
         "genre": "Fantasy, Epic Fantasy",
         "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/A_Song_of_Ice_and_Fire_book_collection_box_set_cover.jpg",
-        "price": 4
+        "price": 6
     },
     {
         "id": 6,
@@ -76,7 +76,7 @@
         "year": 2007,
         "genre": "Fantasy",
         "cover": "https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg",
-        "price": 4
+        "price": 16
     },
     {
         "id": 7,
@@ -87,7 +87,7 @@
         "year": 1988,
         "genre": "Adventure, Fiction, Philosophy",
         "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/TheAlchemist.jpg",
-        "price": 3
+        "price": 10
     },
     {
         "id": 8,
@@ -98,7 +98,7 @@
         "year": 2018,
         "genre": "Memoir, Autobiography",
         "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Becoming_%28Michelle_Obama_book%29.jpg",
-        "price": 5
+        "price": 10
     },
     {
         "id": 9,
@@ -109,7 +109,7 @@
         "year": 2018,
         "genre": "Mystery, Fiction, Thriller",
         "cover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Where_The_Crawdads_Sing_Book_Cover.jpg",
-        "price": 6
+        "price": 9
     }
 ]
 
