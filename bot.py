@@ -76,6 +76,7 @@ async def callback_book(callback: CallbackQuery, callback_data: BookCallback) ->
         f"👤 Author: {book.author}\n"
         f"🕒 Year: {book.year}\n"
         f"💲 Price: {book.price}\n"
+        f"🔗 Link: {book.website}\n"
     )
     await callback.message.answer_photo(
         caption=text,
