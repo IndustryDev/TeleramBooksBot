@@ -9,8 +9,8 @@
         "year": 2003,
         "genre": "Thriller, Mystery",
         "cover": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg",
-        "price": 8
-      	
+        "price": 8,
+        "website": "https://www.amazon.com/Vinci-Code-Robert-Langdon/dp/0307474275"
     },
     {
         "id": 1,
@@ -21,7 +21,8 @@
         "year": 2008,
         "genre": "Dystopian, Science Fiction, Young Adult",
         "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Hunger_Games.jpg",
-        "price": 9
+        "price": 9,
+        "website": "https://www.amazon.com/Hunger-Games-Book-1/dp/0439023521/ref=tmm_pap_swatch_0"
     },
     {
         "id": 2,
@@ -32,7 +33,8 @@
         "year": 2011,
         "genre": "Romance, Erotica",
         "cover": "http://upload.wikimedia.org/wikipedia/en/5/5e/50ShadesofGreyCoverArt.jpg",
-        "price": 13
+        "price": 13,
+        "website": "https://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485"
     },
     {
         "id": 3,
@@ -43,7 +45,8 @@
         "year": 2015,
         "genre": "Psychological Thriller, Mystery",
         "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Girl_On_The_Train_%28US_cover_2015%29.png",
-        "price": 9
+        "price": 9,
+        "website": "https://www.amazon.com/Girl-Train-Paula-Hawkins/dp/1594634025/ref=tmm_pap_swatch_0"
     },
     {
         "id": 4,
@@ -54,7 +57,8 @@
         "year": 2009,
         "genre": "Historical Fiction",
         "cover": "https://upload.wikimedia.org/wikipedia/en/e/ef/Thehelpbookcover.jpg",
-        "price": 15
+        "price": 15,
+        "website": "https://www.amazon.com/The-help/dp/8804670495"
     },
     {
         "id": 5,
@@ -65,7 +69,8 @@
         "year": 1996,
         "genre": "Fantasy, Epic Fantasy",
         "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/A_Song_of_Ice_and_Fire_book_collection_box_set_cover.jpg",
-        "price": 6
+        "price": 6,
+        "website": "https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553573403"
     },
     {
         "id": 6,
@@ -76,7 +81,8 @@
         "year": 2007,
         "genre": "Fantasy",
         "cover": "https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg",
-        "price": 16
+        "price": 16,
+        "website": "https://www.amazon.com/Harry-Potter-Deathly-Hallows-Rowling/dp/1408855712"
     },
     {
         "id": 7,
@@ -87,7 +93,9 @@
         "year": 1988,
         "genre": "Adventure, Fiction, Philosophy",
         "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/TheAlchemist.jpg",
-        "price": 10
+        "price": 10,
+        "website": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0062315005"
+
     },
     {
         "id": 8,
@@ -98,7 +106,8 @@
         "year": 2018,
         "genre": "Memoir, Autobiography",
         "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Becoming_%28Michelle_Obama_book%29.jpg",
-        "price": 10
+        "price": 10,
+        "website": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763144/ref=tmm_pap_swatch_0"
     },
     {
         "id": 9,
@@ -109,7 +118,7 @@
         "year": 2018,
         "genre": "Mystery, Fiction, Thriller",
         "cover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Where_The_Crawdads_Sing_Book_Cover.jpg",
-        "price": 9
+        "price": 9,
+        "website": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219109/ref=tmm_pap_swatch_0"
     }
 ]
-
